@@ -14,6 +14,7 @@
 		611BE9A51E911C95005EEEEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 611BE9A31E911C95005EEEEF /* LaunchScreen.storyboard */; };
 		611BE9B01E911C95005EEEEF /* SimpleSwiftProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611BE9AF1E911C95005EEEEF /* SimpleSwiftProjectTests.swift */; };
 		611BE9BB1E911C95005EEEEF /* SimpleSwiftProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611BE9BA1E911C95005EEEEF /* SimpleSwiftProjectUITests.swift */; };
+		611BE9C91E912000005EEEEF /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611BE9C81E912000005EEEEF /* CalculatorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		611BE9B61E911C95005EEEEF /* SimpleSwiftProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleSwiftProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		611BE9BA1E911C95005EEEEF /* SimpleSwiftProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleSwiftProjectUITests.swift; sourceTree = "<group>"; };
 		611BE9BC1E911C95005EEEEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		611BE9C81E912000005EEEEF /* CalculatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				611BE9A11E911C95005EEEEF /* Assets.xcassets */,
 				611BE9A31E911C95005EEEEF /* LaunchScreen.storyboard */,
 				611BE9A61E911C95005EEEEF /* Info.plist */,
+				611BE9C81E912000005EEEEF /* CalculatorViewController.swift */,
 			);
 			path = SimpleSwiftProject;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				611BE99D1E911C95005EEEEF /* ViewController.swift in Sources */,
+				611BE9C91E912000005EEEEF /* CalculatorViewController.swift in Sources */,
 				611BE99B1E911C95005EEEEF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
