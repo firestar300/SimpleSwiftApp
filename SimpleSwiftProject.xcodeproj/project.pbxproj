@@ -15,6 +15,7 @@
 		611BE9B01E911C95005EEEEF /* SimpleSwiftProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611BE9AF1E911C95005EEEEF /* SimpleSwiftProjectTests.swift */; };
 		611BE9BB1E911C95005EEEEF /* SimpleSwiftProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611BE9BA1E911C95005EEEEF /* SimpleSwiftProjectUITests.swift */; };
 		611BE9C91E912000005EEEEF /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611BE9C81E912000005EEEEF /* CalculatorViewController.swift */; };
+		611BE9CB1E912514005EEEEF /* Readme.md in Sources */ = {isa = PBXBuildFile; fileRef = 611BE9CA1E912514005EEEEF /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		611BE9BA1E911C95005EEEEF /* SimpleSwiftProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleSwiftProjectUITests.swift; sourceTree = "<group>"; };
 		611BE9BC1E911C95005EEEEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		611BE9C81E912000005EEEEF /* CalculatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
+		611BE9CA1E912514005EEEEF /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		611BE98E1E911C95005EEEEF = {
 			isa = PBXGroup;
 			children = (
+				611BE9CA1E912514005EEEEF /* Readme.md */,
 				611BE9991E911C95005EEEEF /* SimpleSwiftProject */,
 				611BE9AE1E911C95005EEEEF /* SimpleSwiftProjectTests */,
 				611BE9B91E911C95005EEEEF /* SimpleSwiftProjectUITests */,
@@ -264,6 +267,7 @@
 			files = (
 				611BE99D1E911C95005EEEEF /* ViewController.swift in Sources */,
 				611BE9C91E912000005EEEEF /* CalculatorViewController.swift in Sources */,
+				611BE9CB1E912514005EEEEF /* Readme.md in Sources */,
 				611BE99B1E911C95005EEEEF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
